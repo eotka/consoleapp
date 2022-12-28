@@ -1,0 +1,7 @@
+Z:\211-161\DPO\phone\phone\bin\Debug\phone.exe
+Z:\211-161\DPO\phone\phone\bin\Debug\phone.pdb
+Z:\211-161\DPO\phone\phone\obj\Debug\phone.csproj.AssemblyReference.cache
+Z:\211-161\DPO\phone\phone\obj\Debug\phone.csproj.SuggestedBindingRedirects.cache
+Z:\211-161\DPO\phone\phone\obj\Debug\phone.csproj.CoreCompileInputs.cache
+Z:\211-161\DPO\phone\phone\obj\Debug\phone.exe
+Z:\211-161\DPO\phone\phone\obj\Debug\phone.pdb
